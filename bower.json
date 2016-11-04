@@ -1,8 +1,8 @@
 {
-  "name": "ui-bootstrap-datetimepicker",
+  "name": "ng-ui-bootstrap-datetimepicker",
   "homepage": "https://github.com/luissfletes/ui-bootstrap-datetimepicker",
   "authors": [
-    "Luis Fletes <luis.fletes@nestrixcorp.com>"
+    "Luis Fletes <luissfletes@gmail.com>"
   ],
   "description": "Compiled version of ui-bootstrap (only datetimepicker available)",
   "main": "",
