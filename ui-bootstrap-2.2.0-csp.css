@@ -40,3 +40,7 @@
 .uib-button-bar {
   padding: 10px 9px 2px;
 }
+
+.uib-time input {
+  width: 50px;
+}
