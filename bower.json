@@ -1,0 +1,17 @@
+{
+  "name": "ui-bootstrap-datetimepicker",
+  "homepage": "https://github.com/luissfletes/ui-bootstrap-datetimepicker",
+  "authors": [
+    "Luis Fletes <luis.fletes@nestrixcorp.com>"
+  ],
+  "description": "Compiled version of ui-bootstrap (only datetimepicker available)",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "ui-bootstrap",
+    "datetimepicker"
+  ],
+  "license": "MIT"
+}
